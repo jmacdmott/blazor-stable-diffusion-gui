@@ -1,5 +1,5 @@
 # Blazor Diffusion
-## A Stable Diffusion Front End
+## A Stable Diffusion Front-End
 
 Using Automatic1111's api we can improve upon the default Gradio graphical interface and re-design it using a more powerful framework such as Blazor.
 
